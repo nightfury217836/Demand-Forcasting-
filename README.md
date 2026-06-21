@@ -7,6 +7,14 @@ Predict future product demand using Machine Learning and historical sales data t
 
 ---
 
+## 🎥 Project Walkthrough Video
+
+Watch the complete step-by-step tutorial on YouTube:
+
+🔗 **YouTube Video:**
+[Demand Forecasting Prediction using Machine Learning](https://www.youtube.com/watch?v=(https://youtu.be/xEWZaeoEjRE))
+
+
 ## 🚀 Project Overview
 
 Demand forecasting is one of the most important business analytics tasks that helps organizations predict future product demand based on historical sales patterns.
