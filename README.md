@@ -35,30 +35,6 @@ The main goals of this project are:
 
 ---
 
-## 📂 Project Structure
-
-```bash
-Demand-Forecasting/
-│
-├── data/
-│   ├── sales_data.csv
-│
-├── notebooks/
-│   ├── Demand_Forecasting.ipynb
-│
-├── models/
-│   ├── best_model.pkl
-│
-├── outputs/
-│   ├── visualizations/
-│   ├── forecast_results/
-│
-├── requirements.txt
-├── README.md
-└── demand_forecasting.py
-```
-
----
 
 ## 🧠 What You'll Learn
 
@@ -207,34 +183,6 @@ The project includes:
 
 ---
 
-## ▶️ How to Run the Project
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/demand-forecasting.git
-cd demand-forecasting
-```
-
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Run the Notebook
-
-```bash
-jupyter notebook
-```
-
-Open:
-
-```bash
-Demand_Forecasting.ipynb
-```
-
----
 
 ## 📌 Future Improvements
 
