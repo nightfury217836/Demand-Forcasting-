@@ -11,9 +11,8 @@ Predict future product demand using Machine Learning and historical sales data t
 
 Watch the complete step-by-step tutorial on YouTube:
 
-🔗 **YouTube Video:**
-[Demand Forecasting Prediction using Machine Learning](https://www.youtube.com/watch?v=(https://youtu.be/xEWZaeoEjRE))
-
+🔗 **YouTube Video:**  
+[Demand Forecasting Prediction using Machine Learning](https://www.youtube.com/watch?v=xEWZaeoEjRE)
 
 ## 🚀 Project Overview
 
